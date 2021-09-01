@@ -1,0 +1,59 @@
+img{
+    height: auto;
+    width: 125px;
+}
+
+.row{
+    justify-content: center;
+}
+
+p{
+    font-size: 75%;
+}
+
+ul{
+    font-size: 75%;
+    list-style: none;
+    padding: 0 0 0 0;
+}
+
+li{
+    display: inline;
+    margin: 0 010px 0 0px;
+}
+
+#sign_in{
+    width: 350px;
+    padding: 30px 30px 30px 30px;
+    border-style: solid;
+    border-color: rgb(226, 233, 235);
+    border-radius: 5px;
+    justify-content: center;
+}
+
+h6{
+    font-size: 80%;
+    color:rgb(145, 144, 143)
+}
+
+#cyaa{
+    background-color: rgb(230, 234, 235);
+    border-color: rgb(139, 139, 139);
+    width: 350px;
+}
+
+#footerrow {
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 2px 0 0 0;
+    border-color: #e3e3e3;
+    padding-top: 10px;
+}
+
+#continue{
+    width: 285px;
+}
+
+form > input{
+    width: 285px;
+}
